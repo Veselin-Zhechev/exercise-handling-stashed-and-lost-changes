@@ -1,1 +1,2 @@
 Initial content in file2.txt
+Some changes in file2
