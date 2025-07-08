@@ -1,1 +1,3 @@
 Initial content in file1.txt
+
+Some changes in file1
