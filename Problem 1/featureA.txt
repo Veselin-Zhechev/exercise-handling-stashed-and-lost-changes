@@ -1,1 +1,2 @@
 Initial content in feature A
+Change in featureA.txt file on feature-new-branch
