@@ -1,1 +1,2 @@
 Initial content from master
+Some changes in conflict.txt made on master
