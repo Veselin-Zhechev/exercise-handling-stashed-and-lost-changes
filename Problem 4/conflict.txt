@@ -1,2 +1,3 @@
 Initial content from master
-Some changes in conflict.txt made on master
+Some changes in conflict.txt made on feature-conflict-branch
+
